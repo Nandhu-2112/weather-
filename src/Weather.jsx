@@ -30,7 +30,7 @@ export default function WeatherApp() {
 
   return (
     <div className="weather-container">
-      <h1>Weather App</h1>
+      <h1>Weather Forecasting</h1>
       <input
         type="text"
         placeholder="Enter the location"
